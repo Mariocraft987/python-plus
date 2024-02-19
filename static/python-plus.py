@@ -1,3 +1,3 @@
-print("python plue (c)")
+print("python plus (c)")
 
-command = input("Type a command")
+command = input("Type a command: ")
